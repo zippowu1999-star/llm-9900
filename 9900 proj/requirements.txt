@@ -1,0 +1,47 @@
+# AI和LLM相关
+langchain==0.1.20
+langchain-community==0.0.38
+langchain-core==0.1.52
+langgraph==0.0.55
+ollama==0.1.8
+
+# 数据处理和分析
+pandas==2.2.1
+numpy==1.26.4
+scikit-learn==1.4.2
+scipy==1.12.0
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.20.0
+
+# Kaggle集成
+kaggle==1.6.6
+opendatasets==0.1.22
+
+# Web框架
+streamlit==1.32.2
+fastapi==0.110.1
+uvicorn==0.29.0
+pydantic==2.6.4
+
+# 代码执行和安全
+RestrictedPython==7.0
+docker==7.0.0
+
+# 向量数据库（用于RAG）
+chromadb==0.4.24
+sentence-transformers==2.6.1
+
+# 工具库
+python-dotenv==1.0.1
+pyyaml==6.0.1
+requests==2.31.0
+tqdm==4.66.2
+
+# 日志和监控
+loguru==0.7.2
+
+# 测试
+pytest==8.1.1
+pytest-asyncio==0.23.6
+
